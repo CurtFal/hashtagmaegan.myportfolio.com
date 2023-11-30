@@ -1,0 +1,17 @@
+<svg id="S_PlayCircle_24_N" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ff13dc;
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <title>S_PlayCircle_24_N</title>
+  <path class="cls-1" d="M12,2.05A9.95,9.95,0,1,0,21.95,12,9.95,9.95,0,0,0,12,2.05Zm5.266,10.381L9.743,16.848a1,1,0,0,1-.53.152H8.5a.5.5,0,0,1-.5-.5v-9A.5.5,0,0,1,8.5,7h.713a1,1,0,0,1,.53.152l7.522,4.417A.5.5,0,0,1,17.266,12.431Z"/>
+  <rect id="ToDelete" class="cls-2" width="24" height="24"/>
+</svg>

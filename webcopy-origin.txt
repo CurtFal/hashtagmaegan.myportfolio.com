@@ -1,0 +1,344 @@
+Uri: https://cdn-prod-ccv.adobe.com/Dpon8jc46oC/rend/Dpon8jc46oC_576.mp4?hdnts=st%3D1701278355~exp%3D1701537555~acl%3D%2Fshared_assets%2Fimage%2F*!%2Fz%2FDpon8jc46oC%2Frend%2F*!%2Fi%2FDpon8jc46oC%2Frend%2F*!%2FDpon8jc46oC%2Frend%2F*!%2FDpon8jc46oC%2Fimage%2F*!%2FDpon8jc46oC%2Fcaptions%2F*~hmac%3Db984fb34e19df2473b44a0442f8c902659f14060e207079f369e7c99bb1bc6e3
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\Dpon8jc46oC\rend\Dpon8jc46oC_576-3.mp4
+Content Type: video/mp4
+
+Uri: https://cdn-prod-ccv.adobe.com/Dpon8jc46oC/rend/master.m3u8?hdnts=st%3D1701278355~exp%3D1701537555~acl%3D%2Fshared_assets%2Fimage%2F*!%2Fz%2FDpon8jc46oC%2Frend%2F*!%2Fi%2FDpon8jc46oC%2Frend%2F*!%2FDpon8jc46oC%2Frend%2F*!%2FDpon8jc46oC%2Fimage%2F*!%2FDpon8jc46oC%2Fcaptions%2F*~hmac%3Db984fb34e19df2473b44a0442f8c902659f14060e207079f369e7c99bb1bc6e3
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\Dpon8jc46oC\rend\master-3.m3u8
+Content Type: application/x-mpegurl
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/1089268b-177f-42d0-ac6d-6571b32873d9_rwc_196x0x1108x867x32.png?h=fa03fffc47adac5f97ad8a69f6b585e4
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\1089268b-177f-42d0-ac6d-6571b32873d9_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/11539ded-962b-47f0-aa36-168864c6c090_rwc_196x0x1108x867x32.png?h=299245a3a8445257e8cb8bfa6dae5680
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\11539ded-962b-47f0-aa36-168864c6c090_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/16bf1887d2c018c7f527c6b7d81206d61652819449.css?h=cd9635e308d456aad3e0a6abb2942496
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\16bf1887d2c018c7f527c6b7d81206d61652819449.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/181bf76e-07c3-416c-874d-190cd82c730b_rwc_196x0x1108x867x32.png?h=fc596cc39219385028a4c7460aafdb26
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\181bf76e-07c3-416c-874d-190cd82c730b_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/1a765c4b-caba-4439-b21b-757fbb2aee15_rwc_196x0x1108x867x32.png?h=14a582ecf52a5ea359fdbec750cfc3d1
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\1a765c4b-caba-4439-b21b-757fbb2aee15_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/1ab34b86-e0d2-48cb-a4a1-82886ba01f70_rwc_196x0x1108x867x32.png?h=db101498a44ce77f8e30436b6035a07c
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\1ab34b86-e0d2-48cb-a4a1-82886ba01f70_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/1d158c6fd48a14a6f248765a878648151652819449.css?h=eccf92ead0ed5dadde42d151380c236d
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\1d158c6fd48a14a6f248765a878648151652819449.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/204fa03c-64b6-425c-9477-b2ba73f43712_rwc_196x0x1108x867x32.png?h=59ca1156a58bba61fd6fcfa65ac9f3e6
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\204fa03c-64b6-425c-9477-b2ba73f43712_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/23a69294212618e794330521cc9a81671652819449.css?h=8d35f4183feb0da11a069d2c3c76674a
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\23a69294212618e794330521cc9a81671652819449.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/2e23814d-6681-4fb7-8c45-958108e4efea_rwc_196x0x1108x867x32.png?h=847da65cee1c3f29abb17d24078b4237
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\2e23814d-6681-4fb7-8c45-958108e4efea_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/3b231354-d24a-49a5-80e6-6b24968db46c_rwc_196x0x1108x867x32.png?h=206b04f95ae92e3854e0d3d13c8281db
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\3b231354-d24a-49a5-80e6-6b24968db46c_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/4200fc11-2ba5-492d-a7eb-1fdb941df598_rwc_3x0x638x614x4096.gif?h=badd5af7e86e90776e74d519deda944b
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\4200fc11-2ba5-492d-a7eb-1fdb941df598_rwc_3x0x638x614x4096.gif
+Content Type: image/gif
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/495b00f9032abf39bd180a661a8bf5eb1652819449.css?h=e302a233c9c48127946b7cdd887eaec8
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\495b00f9032abf39bd180a661a8bf5eb1652819449.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/54411539a5b4e13facd970534867b0f11652819449.css?h=8e82146faf13dbb101119c6c5f235e5a
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\54411539a5b4e13facd970534867b0f11652819449.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/59a9e475-e654-4735-9350-b14784cbd518_rwc_196x0x1108x867x32.png?h=bd66ca29436bc83e755afd504792fbc8
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\59a9e475-e654-4735-9350-b14784cbd518_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/6cd0d972-faf5-4021-ab87-7e792fb165a1_rwc_196x0x1108x867x32.png?h=c74ea03077465c3bf9d4addc3cad50f0
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\6cd0d972-faf5-4021-ab87-7e792fb165a1_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/8355b34c-4f38-415d-8e65-cf751d2f3fa0_rwc_196x0x1108x867x32.png?h=760ce27be4ac2c6877852fd8cdb185ff
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\8355b34c-4f38-415d-8e65-cf751d2f3fa0_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/8810194b-35d0-40ac-b6ce-0ee5d912d920_rwc_196x0x1108x867x32.png?h=93fbbf5f736c365fd2cbce7326545fcc
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\8810194b-35d0-40ac-b6ce-0ee5d912d920_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/88b2f4b7-e798-4e1e-9cb9-0a280770f751_rwc_196x0x1108x867x32.png?h=b4c921980cb6c2b5c2c8d359f6e31b9d
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\88b2f4b7-e798-4e1e-9cb9-0a280770f751_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/a28ecd58-7742-4c20-a454-85ba4e7f6fcb_rwc_196x0x1108x867x32.png?h=a13d5e0a038ab30b00d7e595700232f3
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\a28ecd58-7742-4c20-a454-85ba4e7f6fcb_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/b88a9893-5777-4250-9961-8da91c1bae0e_carw_1x1x32.png?h=d49a78a7f130230c1d3edd66d941f18c
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\b88a9893-5777-4250-9961-8da91c1bae0e_carw_1x1x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/ba3881ed8937dfa29209648ac3e234c01652819449.css?h=a9e72bd8457e08da3ec1e63f88fcf399
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\ba3881ed8937dfa29209648ac3e234c01652819449.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/c03e232574845d8842be87f6dcc612351652819449.css?h=916625c160a8694027d3a3dd5c9a51b6
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\c03e232574845d8842be87f6dcc612351652819449.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/c0f6b8ed-a49a-42c1-8ff3-dc2d560537e3_rwc_196x0x1108x867x32.png?h=0a3d94326238855b88ac7e7428cad796
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\c0f6b8ed-a49a-42c1-8ff3-dc2d560537e3_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/dc88ee345015d15db563891254f2a3361652819449.css?h=eeb980910c9bc9a9e10fcf95d6cc10d8
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\dc88ee345015d15db563891254f2a3361652819449.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/e02846cd5190f2106deb753d93f6a8cd1652819449.css?h=52af0a74adac653ec4c49e9328c9ed9d
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\e02846cd5190f2106deb753d93f6a8cd1652819449.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/eb55441d16719d6199d68f8a2b6cec761652819449.css?h=bd793de5d40711e9e191f74846b6826a
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\eb55441d16719d6199d68f8a2b6cec761652819449.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/ed432927-deea-45c9-99ff-5b1c2f5b464b_rwc_196x0x1108x867x32.png?h=c091bf53bcd2ae50195fb9257f360211
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\ed432927-deea-45c9-99ff-5b1c2f5b464b_rwc_196x0x1108x867x32.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/f03923d3-4c4c-4dab-b3c0-40d4259f2e27_rwc_0x0x1035x407x4096.png?h=cce6abff1899c3ad92e0352d8322ac46
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\f03923d3-4c4c-4dab-b3c0-40d4259f2e27_rwc_0x0x1035x407x4096.png
+Content Type: image/png
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/fba32faed7d0c8e8c2e97d214a8ddb1e1652819449.css?h=617fb4012c310f99d917ac9c334273fd
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\fba32faed7d0c8e8c2e97d214a8ddb1e1652819449.css
+Content Type: text/css
+
+Uri: https://cdn.myportfolio.com/cee11861-7025-448b-b118-a8ffc436fb26/ff0e4e90679dd1ab6be263b42ac622b11652819449.css?h=9ba281d3f426fe79e937ba2d9dfe5f54
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\ff0e4e90679dd1ab6be263b42ac622b11652819449.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/7.2.5/polyfill.min.js
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\ajax\libs\babel-polyfill\7.2.5\polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://hashtagmaegan.myportfolio.com/
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\index.htm
+Content Type: text/html
+
+Uri: https://hashtagmaegan.myportfolio.com/20-mule-team-borax
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\20-mule-team-borax.html
+Content Type: text/html
+
+Uri: https://hashtagmaegan.myportfolio.com/about
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\about.html
+Content Type: text/html
+
+Uri: https://hashtagmaegan.myportfolio.com/bright-trip
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\bright-trip.html
+Content Type: text/html
+
+Uri: https://hashtagmaegan.myportfolio.com/contact
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\contact.html
+Content Type: text/html
+
+Uri: https://hashtagmaegan.myportfolio.com/dist/css/main.css
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\dist\css\main.css
+Content Type: text/css
+
+Uri: https://hashtagmaegan.myportfolio.com/dist/js/main.js?cb=47a664330854441e7fc00a8c3e7b38610e6a2e05
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\dist\js\main.js
+Content Type: application/javascript
+
+Uri: https://hashtagmaegan.myportfolio.com/email-marketing
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\email-marketing.html
+Content Type: text/html
+
+Uri: https://hashtagmaegan.myportfolio.com/persil-proclean
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\persil-proclean.html
+Content Type: text/html
+
+Uri: https://hashtagmaegan.myportfolio.com/prioritize-success
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\prioritize-success.html
+Content Type: text/html
+
+Uri: https://hashtagmaegan.myportfolio.com/resume
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\resume.html
+Content Type: text/html
+
+Uri: https://hashtagmaegan.myportfolio.com/site/translations?cb=47a664330854441e7fc00a8c3e7b38610e6a2e05
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\site\translations
+Content Type: application/javascript
+
+Uri: https://hashtagmaegan.myportfolio.com/snuggle
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\snuggle.html
+Content Type: text/html
+
+Uri: https://hashtagmaegan.myportfolio.com/tinys-home
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\tinys-home.html
+Content Type: text/html
+
+Uri: https://hashtagmaegan.myportfolio.com/work
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\work.html
+Content Type: text/html
+
+Uri: https://hashtagmaegan.myportfolio.com/writing-samples
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\writing-samples.html
+Content Type: text/html
+
+Uri: https://portfolio.adobe.com/
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\index-1.htm
+Content Type: text/html
+
+Uri: https://portfolio.adobe.com/constants.js?cb=cab7c32e74172656e1cc
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\constants.js
+Content Type: text/javascript
+
+Uri: https://portfolio.adobe.com/favicon.ico?cb=cab7c32e74172656e1cc
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://pro2-ui-assets-s3-fy.myportfolio.com/66e575a/app.js?cb=cab7c32e74172656e1cc
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\66e575a\app.js
+Content Type: application/javascript
+
+Uri: https://use.typekit.net/ik/5a-zJYE3VwfBT9l8gr3pWO90jBFSEEgm3Joa95fosEtfeCjffHYEBsJzwD9oFDIDWhjXFDBKFcbUZAJtZRgcZ2gKjAwDwR8yFAJujAmqwDwtFc9kjRMhFRj-mkG0dW83da4XZcNC-Av0jhNlOfG0SY4zwKuh-AmaOcuoSeNkieZzde8zOcFzdPUlpWgzS1scdhUTdkoRdhXCSY4zwKuh-AmaOcuoSeNkieZzde8zOcFzdPJIjhyaZKJIjhyEjkJIZ1s0-kJIpWFtjkGHfOpDMyMMegI6MKGHfO-DMyMMeMS6MKGHf5PqMyMgeMw6MKGHf5-qMyMgeMb6MKGHf5cqMyMgeM96MKGHf50qMyMgeMj6MKG4fJsmIMJjgfMfH6qJ6m9bMy6YJMJ7f6RVTMJbMU6OJMJ7fbRyLUM2eMb6MKGHfF-qMyM2eM96MKGHfFKqMyM2eMj6MKGHfF7qMyM2eMS6MTMgzod_q3j.js?cb=47a664330854441e7fc00a8c3e7b38610e6a2e05
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\ik\5a-zJYE3VwfBT9l8gr3pWO90jBFSEEgm3Joa95fosEtfeCjffHYEBsJzwD9oFDIDWhjXFDBKFcbUZAJtZRgcZ2gKjAwDwR8yFAJujAmqwDwtFc9kjRMhFRj-mkG0dW83da4XZcNC-Av0jhNlOfG0SY4zwKuh-AmaOcuoSeNkieZzde8zOcFzdPUlpWgzS1scdhUTdk.js
+Content Type: text/javascript
+
+Uri: https://use.typekit.net/wna4qxf.js
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\wna4qxf.js
+Content Type: text/javascript
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/css/ccv-player.min.css
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\css\ccv-player.min.css
+Content Type: text/css
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/css/video-js.css
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\css\video-js.css
+Content Type: text/css
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_FullScreenExit_18_N.png
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_FullScreenExit_18_N.png
+Content Type: image/png
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_FullScreenExit_18_N.svg
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_FullScreenExit_18_N.svg
+Content Type: image/svg+xml
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_FullScreen_18_N.png
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_FullScreen_18_N.png
+Content Type: image/png
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_FullScreen_18_N.svg
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_FullScreen_18_N.svg
+Content Type: image/svg+xml
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_Pause_18_N.png
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_Pause_18_N.png
+Content Type: image/png
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_Pause_18_N.svg
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_Pause_18_N.svg
+Content Type: image/svg+xml
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_PlayCircle_24_N.svg
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_PlayCircle_24_N.svg
+Content Type: image/svg+xml
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_Play_18_N.png
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_Play_18_N.png
+Content Type: image/png
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_Play_18_N.svg
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_Play_18_N.svg
+Content Type: image/svg+xml
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_Replay_24_N.png
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_Replay_24_N.png
+Content Type: image/png
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_Replay_24_N.svg
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_Replay_24_N.svg
+Content Type: image/svg+xml
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_Settings_18_N.png
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_Settings_18_N.png
+Content Type: image/png
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_Settings_18_N.svg
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_Settings_18_N.svg
+Content Type: image/svg+xml
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_VolumeMute_18_N.png
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_VolumeMute_18_N.png
+Content Type: image/png
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_VolumeMute_18_N.svg
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_VolumeMute_18_N.svg
+Content Type: image/svg+xml
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_VolumeOne_18_N.png
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_VolumeOne_18_N.png
+Content Type: image/png
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_VolumeOne_18_N.svg
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_VolumeOne_18_N.svg
+Content Type: image/svg+xml
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_VolumeThree_18_N.png
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_VolumeThree_18_N.png
+Content Type: image/png
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_VolumeThree_18_N.svg
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_VolumeThree_18_N.svg
+Content Type: image/svg+xml
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_VolumeTwo_18_N.png
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_VolumeTwo_18_N.png
+Content Type: image/png
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/img/S_VolumeTwo_18_N.svg
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\img\S_VolumeTwo_18_N.svg
+Content Type: image/svg+xml
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/js/ccv-betaplayer.min.js
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\js\ccv-betaplayer.min.js
+Content Type: application/javascript
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/js/ingest.min.js
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\js\ingest.min.js
+Content Type: application/javascript
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/js/video.min.js
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\js\video.min.js
+Content Type: application/javascript
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/js/videojs-media-sources.js
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\js\videojs-media-sources.js
+Content Type: application/javascript
+
+Uri: https://www-ccv.adobe.io/build2697265df0/resource/ccv/js/VisitorAPI.js
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\build2697265df0\resource\ccv\js\VisitorAPI.js
+Content Type: application/javascript
+
+Uri: https://www-ccv.adobe.io/v1/player/ccv/Dpon8jc46oC/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View
+File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\v1\player\ccv\Dpon8jc46oC\embed.html
+Content Type: text/html
+

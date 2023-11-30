@@ -1,0 +1,19 @@
+<svg id="S_VolumeOne_18_N" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #FFFFFF;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #ff13dc;
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <title>S_VolumeOne_18_N</title>
+  <path class="cls-1" d="M3.373,6.037H.727A.737.737,0,0,0,0,6.782v4.471A.737.737,0,0,0,.727,12H3.373a.714.714,0,0,1,.465.172L7.4,15.8a.363.363,0,0,0,.6-.286V2.5a.363.363,0,0,0-.6-.286L3.839,5.864A.718.718,0,0,1,3.373,6.037Z" transform="translate(0 0)"/>
+  <path class="cls-1" d="M11.02,9a3.468,3.468,0,0,1-.7,2.1.491.491,0,0,0,.043.644l.008.008a.5.5,0,0,0,.743-.045A4.477,4.477,0,0,0,11.1,6.277a.5.5,0,0,0-.742-.043l-.008.008a.491.491,0,0,0-.042.646A3.472,3.472,0,0,1,11.02,9Z" transform="translate(0 0)"/>
+  <rect id="ToDelete" class="cls-2" width="18" height="18"/>
+</svg>
