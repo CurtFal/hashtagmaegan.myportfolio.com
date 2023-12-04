@@ -22,7 +22,7 @@ Uri: https://cdn.myportfolio.com/img/bt2.png
 File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\181bf76e-07c3-416c-874d-190cd82c730b_rwc_196x0x1108x867x32.png
 Content Type: image/png
 
-Uri: https://cdn.myportfolio.com/img/em2.png.png
+Uri: https://cdn.myportfolio.com/img/em2.png
 File Name: C:\Downloaded Web Sites\hashtagmaegan.myportfolio.com\cee11861-7025-448b-b118-a8ffc436fb26\1a765c4b-caba-4439-b21b-757fbb2aee15_rwc_196x0x1108x867x32.png
 Content Type: image/png
 
